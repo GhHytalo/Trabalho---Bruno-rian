@@ -1,0 +1,19 @@
+------------- 2026 (27 de outubro) ------------
+Trabalho em grupo,HTML e CSS para o site: Documentação de Desenvolvimento
+Grupo: Bruno,Hytalo,Gustavo,Luan,Erick,Cauã
+Funções: 
+Liderança: Bruno Rian
+Programadores Principais: Hytalo, Gustavo & Luan
+Design de imagens,design do site,e aparência geral: Cauã & Erick
+Nosso trabalho foi hospedado não somente no Google drive (https://drive.google.com/drive/folders/1hy68ZQVec59ptm0z-HxG5ZYRXoHcCAGk?usp=drive_link)
+mas também utilizando o site de programação e hospedação de arquivos profissionais,Github. (https://github.com/GhHytalo/Trabalho---Bruno-rian)
+Como foi realizado o trabalho e o que fizemos: A partir do primeiro dia,foi realizado o código e estruturação do site. 
+A equipe de design guiava como alterar o site para deixar visualmente correto,de acordo com a concordância entre a equipe. 
+Os programadores foram construindo o site aos poucos,utilizando o Bootstrap.
+Após o esqueleto do site ser definido,foi realizado a adição da capa (Imagem acima da barra de Navegação).
+Após,o código foi reorganizado e re-estruturado para aceitar a barra de navegação,onde foi feita em casa em conjunto,utilizando o Whatsapp para comunicar com a equipe e entrar em concordância sobre o que deveriamos fazer.
+Nas semanas recentes,com a ajuda da equipe de Design e os programadores,foi criado as sub-páginas do site,a função de HREF dos botões,e a estilização das páginas de cada Curso.
+A mudança mais recente foi a adição do <footer>,que reserva os direitos autorais da nossa equipe. 
+Assim,chegamos ao ponto que o trabalho se encontra.
+Obrigado.
+- Equipe BrunoTech,2026.
